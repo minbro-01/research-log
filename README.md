@@ -32,19 +32,29 @@
 
 위 내용은 필요에 따라 [`academic-projects`](https://github.com/minbro-01/academic-projects) 또는 [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study)에 분리합니다.
 
-## Planned Structure
+## Repository Structure
 
 ```text
 research-log/
 ├─ README.md
 ├─ paper-reviews/
+│  └─ README.md
 ├─ literature-notes/
+│  └─ README.md
 ├─ research-ideas/
+│  └─ README.md
 ├─ paper-progress/
 │  └─ drt-policy-recommendation/
+│     ├─ README.md
+│     ├─ literature-review.md
+│     └─ writing-plan.md
 ├─ weekly-logs/
+│  ├─ README.md
+│  └─ 2026-06-21.md
 ├─ retrospectives/
+│  └─ README.md
 └─ references/
+   └─ README.md
 ```
 
 ## Entry Format
