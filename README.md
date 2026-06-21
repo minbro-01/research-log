@@ -9,8 +9,8 @@
 | Repository | Role |
 | --- | --- |
 | [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study) | 수업 기반 개념 정리와 작은 구현 연습 |
-| `academic-projects` | 프로젝트 결과물, 코드, 실험 결과를 정리할 전용 저장소 |
-| `research-log` | 논문 리뷰, 연구 질문, 논문화 진행, 회고 기록 |
+| [`academic-projects`](https://github.com/minbro-01/academic-projects) | 프로젝트 결과물, 코드, 실험 결과를 정리할 전용 저장소 |
+| [`research-log`](https://github.com/minbro-01/research-log) | 논문 리뷰, 연구 질문, 논문화 진행, 회고 기록 |
 
 ## What Goes Here
 
@@ -30,7 +30,7 @@
 - 최종 실험 결과 중심의 프로젝트 문서
 - 수업자료나 외부 자료의 단순 복사본
 
-위 내용은 필요에 따라 `academic-projects` 또는 `ai-engineering-study`에 분리합니다.
+위 내용은 필요에 따라 [`academic-projects`](https://github.com/minbro-01/academic-projects) 또는 [`ai-engineering-study`](https://github.com/minbro-01/ai-engineering-study)에 분리합니다.
 
 ## Planned Structure
 
