@@ -2,11 +2,18 @@
 
 DRT 운행 정책 제안 프로젝트를 논문화하는 과정을 정리하는 연구 진행 기록입니다.
 
-프로젝트 결과물 자체는 `academic-projects`에 정리하고, 이 공간에는 연구 질문, 관련 연구, 방법 정리, 논문 작성 과정에서의 판단을 남깁니다.
+프로젝트 결과물 자체는 [`academic-projects/drt-policy-recommendation`](https://github.com/minbro-01/academic-projects/tree/main/drt-policy-recommendation)에 정리하고, 이 공간에는 연구 질문, 관련 연구, 방법 정리, 논문 작성 과정에서의 판단을 남깁니다.
 
 ## Research Context
 
 자연어 처리와 LLM을 활용해 DRT 운행 정책 관련 자료를 분석하고, 정책 제안으로 연결할 수 있는 근거를 구성하는 것이 핵심 방향입니다.
+
+## Documents
+
+| Document | Purpose |
+| --- | --- |
+| [`literature-review.md`](./literature-review.md) | 관련 연구와 정책 자료 정리 |
+| [`writing-plan.md`](./writing-plan.md) | 논문 구조와 작성 계획 정리 |
 
 ## Paper Progress
 
